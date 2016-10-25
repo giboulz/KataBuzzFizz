@@ -3,8 +3,9 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 Rules : 
 
- * A number is fizz if it is divisible by 3 or if it has a 3 in it
- * A number is buzz if it is divisible by 5 or if it has a 5 in it
+ * A number is fizz if it is divisible by 3 
+ * A number is buzz if it is divisible by 5 
+ * A number is FizzBuzz if both divisible by 3 and 5
 
 Sample output:
 
